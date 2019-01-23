@@ -1,6 +1,13 @@
 .DS_Store
 node_modules
 /dist
+node_modules/**/*
+.expo/*
+npm-debug.*
+*.jks
+*.p12
+*.key
+*.mobileprovision
 
 # local env files
 .env.local
